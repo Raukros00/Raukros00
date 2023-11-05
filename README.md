@@ -278,4 +278,3 @@
     </p>
 
 
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quis exercitationem blanditiis eligendi voluptatum doloribus recusandae et optio illum corporis earum reprehenderit, esse nihil, fugiat explicabo ipsum dolore omnis nulla.
