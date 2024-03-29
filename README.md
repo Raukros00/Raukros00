@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate software engenieer from Italy</h3>
 
-- 🔭 I’m currently working on **IPS** 
-- 🌱 I’m currently learning **React and MAUI**
+- 🔭 I’m currently working on **ELCA Information Technology** 
+- 🌱 I’m currently learning **React and Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
